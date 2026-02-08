@@ -376,7 +376,7 @@ Utility to upload files to Cloudinary and delete local temporary files.
 
 ## 👨‍💻 Author
 
-### [Hackerx]("https://www.hackerx.in")
+### [Hackerx](https://www.hackerx.in)
 
 
 ---
